@@ -1,0 +1,15 @@
+.header-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #495053e1;
+    color: #61baf5;
+    width: 100%;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}
+
+.header-menu h1 {
+    padding: 0;
+    margin: 0;
+}
